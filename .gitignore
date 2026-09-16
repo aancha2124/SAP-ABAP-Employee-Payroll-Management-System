@@ -1,0 +1,7 @@
+# SAP / ABAP local files
+*.bak
+*.tmp
+*.log
+.DS_Store
+.idea/
+.vscode/
